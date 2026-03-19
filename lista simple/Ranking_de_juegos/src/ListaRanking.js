@@ -1,8 +1,0 @@
-class ListaRanking {
-
-    
-    _cabeza;
-
-
-
-}
